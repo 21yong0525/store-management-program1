@@ -11,6 +11,7 @@ java와 mysql을 활용한 상품을 등록, 관리하는 프로그램 입니다
 | OS | Windows 11 Pro |
 | Language | Java 17.0.4.1 |
 | Editor | Eclipse 2022-08-R Packages |
+| DBMS | MySQL Workbench 8.0 |
 | Github | https://github.com/21yong0525/store-management-program1 |
 
 ## 개발기간
